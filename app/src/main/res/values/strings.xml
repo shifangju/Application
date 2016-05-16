@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <!-- 列表页 -->
+    <string name="correct_net_code">200</string>
+    <string name="return_code_CN">返回码=</string>
+    <string name="httperror_no_network">无网络连接，请检查网络连接！</string>
+    <string name="httperror_service_error">服务器异常，请稍后重试！</string>
+    <string name="http_exception">网络异常，请稍后重试</string>
+    <string name="http_time_out">亲，您的手机网络不太顺畅哦</string>
+    <string name="http_json_error">数据解析异常</string>
+    <string name="http_socket_timeout_error">请求超时，请重试</string>
+</resources>
